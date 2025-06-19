@@ -6,7 +6,7 @@ create a key-pair there
 save the output there in `key.private` 
 
 ## Build the image
-If you cant to build this image yourself, simply run 
+If you want to build this image yourself, simply run 
 `docker build -t dyndns .` 
 
 ## Run the image 
